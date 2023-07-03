@@ -1,0 +1,12 @@
+C:\Users\KO78-11\Desktop\Практика\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\KO78-11\Desktop\Практика\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\KO78-11\Desktop\Практика\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\KO78-11\Desktop\Практика\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\NModbus4.dll
+C:\Users\KO78-11\Desktop\Практика\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\NModbus4.xml
+C:\Users\KO78-11\Desktop\Практика\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\KO78-11\Desktop\Практика\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\KO78-11\Desktop\Практика\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\KO78-11\Desktop\Практика\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\KO78-11\Desktop\Практика\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\KO78-11\Desktop\Практика\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Users\KO78-11\Desktop\Практика\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
